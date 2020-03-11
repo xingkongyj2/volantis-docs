@@ -7,6 +7,10 @@ links:
   - group: '版本：^2.0'
     desc: 导航栏拥有N级菜单，快来体验吧。
     items:
+    - name: MYJ's blog
+      avatar: https://ae01.alicdn.com/kf/Ub26a05d0730c4db58aa6721a17c9186fa.jpg
+      url: https://mayujie321.com
+      tags: [简洁，微改，记录]
     - name: xaoxuu
       avatar: https://cdn.jsdelivr.net/gh/xaoxuu/cdn-assets/avatar/avatar.png
       url: https://xaoxuu.com
